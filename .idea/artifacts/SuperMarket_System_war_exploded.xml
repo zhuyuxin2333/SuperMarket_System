@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SuperMarket_System:war exploded">
+    <output-path>D:/tomcat/apache-tomcat-9.0.83/webapps/SuperMarket_System/out/artifacts/SuperMarket_System_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SuperMarket_System/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SuperMarket_System" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
